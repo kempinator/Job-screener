@@ -1,0 +1,36 @@
+Positions have opened up within our team for Python and Django developers.
+
+We are a technology startup developing our proofs of concept and MVP.
+
+The minimum requirement is proven success with Python and Django apps. In addition to that you should have an attention to detail mindset and the motivation to learn, adapt, progress.
+
+You will be working with the whole team to develop and enhance our core Django application. This will involve ideation with domain experts, and collaborating with front end developers and web designers.
+You should be able to explain your decisions in non-technical language to all team members.
+
+We are looking for Python developers who will be dedicated to the project, able to judiciously take the initiative and make outcome-focused decisions.
+We strongly value honesty, contemporaneous communication and use of clear language. In return we echo these values, we don't expect rigid working hours and we respect the need for flexibility.
+
+You should have a strong history of developing functional web apps. A portfolio showing evidence of judicious and forward thinking collaboration with front end developers and web designers is ideal.
+
+The following would be ideal: working with cloud hosting, utilising web servers, developing apps with a significant mobile focus and experience with JavaScript backend.
+
+An important trait we highly value is a desire to learn, share and collaborate with others.
+
+You will have the opportunity to be a prominent part of our technical direction, help steer an exciting and new startup and make your mark on the future.
+
+If the above sounds like you, please apply as we would love to hear from you.
+
+Job Types: Full-time, Part-time
+
+Salary: £15.00-£35.00 per hour
+
+COVID-19 considerations:
+Everything is remote
+
+Education:
+
+Bachelor's (Required)
+Experience:
+
+Python: 3 years (Required)
+Django: 2 years (Preferred)
